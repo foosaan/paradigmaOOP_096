@@ -28,4 +28,8 @@ public:
 		sekolah(pSekolah) {
 		cout << "pelajar dihapus\n" << endl;
 	}
+	~pelajar() {
+		cout << "pelajar dihapus\n" << endl;
+	}
 };
+
