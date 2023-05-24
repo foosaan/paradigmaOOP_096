@@ -32,7 +32,7 @@ public:
 		cout << "pelajar dihapus\n" << endl;
 	}
 	string perkenalan() {
-		return "Hallo, nama saya" + nama + "dari sekolah" + sekolah + "\n\n";
+		return "Hallo, nama saya " + nama + "dari sekolah " + sekolah + "\n\n";
 	}
 };
 
